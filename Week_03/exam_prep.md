@@ -41,7 +41,7 @@ This document contains revision material based on Week 3 lectures (Linked Lists,
 #### Visual Flow
 ```mermaid
 graph TD
-    Start([Start: Q=['1']]) --> Dequeue[Dequeue '1']
+    Start([Start: Q='1']) --> Dequeue[Dequeue '1']
     Dequeue --> Sub1[Print '1']
     Sub1 --> Enq1[Enqueue '1' + '0' = '10']
     Sub1 --> Enq2[Enqueue '1' + '1' = '11']
