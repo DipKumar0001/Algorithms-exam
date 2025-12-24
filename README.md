@@ -14,7 +14,12 @@ The course is divided into 12 weeks. Each folder contains the relevant notes and
     - [GCD Code (Python)](./Week_01/gcd.py)
     - [Tower of Hanoi Code (Python)](./Week_01/hanoi.py)
 
-- *Week 02 - Week 12: Coming Soon*
+- **[Week 02: Data Structures & Matrices](./Week_02/)**
+    - [Exam Prep Notes](./Week_02/exam_prep.md) (Covers Arrays, Sorting, Matrices)
+    - [Matrix Calculator (Python)](./Week_02/matrix_calculator.py)
+    - [Array Algorithms (Python)](./Week_02/array_algos.py)
+
+- *Week 03 - Week 12: Coming Soon*
 
 ## How to use
 Navigate to the specific week folder to find:
