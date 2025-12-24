@@ -19,7 +19,13 @@ The course is divided into 12 weeks. Each folder contains the relevant notes and
     - [Matrix Calculator (Python)](./Week_02/matrix_calculator.py)
     - [Array Algorithms (Python)](./Week_02/array_algos.py)
 
-- *Week 03 - Week 12: Coming Soon*
+- **[Week 03: Queues, Stacks & Linked Lists](./Week_03/)**
+    - [Exam Prep Notes](./Week_03/exam_prep.md) (Covers Linear Data Structures)
+    - [Binary Conversion via Queue (Python)](./Week_03/binary_queue.py)
+    - [Priority Queue (Python)](./Week_03/priority_queue.py)
+    - [Postfix Calculator (Python)](./Week_03/postfix_calculator.py)
+
+- *Week 04 - Week 12: Coming Soon*
 
 ## How to use
 Navigate to the specific week folder to find:
